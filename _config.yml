@@ -43,7 +43,6 @@ author: Deepak
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-I am a dynamic IT professional with over 20 years experience, specialising in applications support, within the financial sector. I adopt a methodical approach to my work and my proactive style of working, allows me to work well independently under extreme pressure as well as being able to contribute to the wider success of my team.I am passionate about computer software development with a specific interest in learning and Launching into Cyber Security. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
