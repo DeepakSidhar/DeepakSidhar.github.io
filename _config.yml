@@ -43,9 +43,7 @@ author: Deepak
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a dynamic IT professional with over 20 years experience, specialising in applications support, within the financial sector. I adopt a methodical approach to my work and my proactive style of working, allows me to work well independently under extreme pressure as well as being able to contribute to the wider success of my team.I am passionate about computer software development with a specific interest in learning and Launching into Cyber Security. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
