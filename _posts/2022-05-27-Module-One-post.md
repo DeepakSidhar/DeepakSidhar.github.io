@@ -22,7 +22,7 @@ Your discussion could consider the following: the economic benefits to companies
 
 Identify a typical global company and describe the nature of the business to set the context for the discussion. Review lecturecast 1 and read the papers provided in the references list. Add your initial post to the discussion forum.
 <ol>
-<li> First Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/e5cf9caf847182e3edc4393339dea05fb039c158/Collaborative%20Learning%20Discussion%201/Deepaks%20Inital%20Post.pdf">Inital Post</a></li>
+<li> First Post --- <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/e5cf9caf847182e3edc4393339dea05fb039c158/Collaborative%20Learning%20Discussion%201/Deepaks%20Inital%20Post.pdf">Inital Post</a></li>
 </ol>
 ## Collaborative Learning Discussion 2
 
