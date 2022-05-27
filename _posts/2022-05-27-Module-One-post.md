@@ -5,16 +5,16 @@ subtitle: Launching into Cyber Security
 ---
 
 
-## 
-Module ONE - Launching into Cyber Security
-##
+<h1>Module ONE - Launching into Cyber Security</h1>
 
-On completion of this module ; - 
-Identify and explain the architecture, structure and functionality of basic components of a computer system, considering Cyber Security issues
-Evaluate critically implications of the key vulnerabilities and threats of software and network security and approaches to mitigate these issues
-Appraise critically and apply the concepts and principles of secure object-oriented programming and design to facilitate business security-based decisions
-Evaluate critically the solutions developed to solve/mitigate these security issues.
 
+On completion of this module : - 
+<ol>
+<li>Identify and explain the architecture, structure and functionality of basic components of a computer system, considering Cyber Security issues</li>
+<li>Evaluate critically implications of the key vulnerabilities and threats of software and network security and approaches to mitigate these issues</li>
+<li>Appraise critically and apply the concepts and principles of secure object-oriented programming and design to facilitate business security-based decisions</li>
+<li>Evaluate critically the solutions developed to solve/mitigate these security issues.</li>
+</ol>
 
 ## Collaborative Learning Discussion 1
 
