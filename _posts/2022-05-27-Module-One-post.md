@@ -21,9 +21,9 @@ On completion of this module : -
 Your discussion could consider the following: the economic benefits to companies, the implications of a breach of regulations and laws such as reputational damage and trust and business competitiveness.
 
 Identify a typical global company and describe the nature of the business to set the context for the discussion. Review lecturecast 1 and read the papers provided in the references list. Add your initial post to the discussion forum.
-
-<p> First Post - <a href="Collaborative Learning Discussion 1/Deepaks Inital Post.pdf">Inital Post</a>.</p>
-
+<ol>
+<li> First Post - <a href="Collaborative Learning Discussion 1/Deepaks Inital Post.pdf">Inital Post</a></li>
+</ol>
 ## Collaborative Learning Discussion 2
 
 Identify and discuss two security technologies and the context in which they can be employed. Your discussion could consider either network or/and software security issues. For example, if a network issue, what type of firewall would be ideal for the solution? What are the strengths and weaknesses of the solution?
