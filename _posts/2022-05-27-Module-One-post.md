@@ -22,6 +22,8 @@ Your discussion could consider the following: the economic benefits to companies
 
 Identify a typical global company and describe the nature of the business to set the context for the discussion. Review lecturecast 1 and read the papers provided in the references list. Add your initial post to the discussion forum.
 
+<p> First Post <a href="/CollaborativeLearningDiscussion1/DeepaksInitalPost.pdf">Inital Post</a>.</p>
+
 ## Collaborative Learning Discussion 2
 
 Identify and discuss two security technologies and the context in which they can be employed. Your discussion could consider either network or/and software security issues. For example, if a network issue, what type of firewall would be ideal for the solution? What are the strengths and weaknesses of the solution?
