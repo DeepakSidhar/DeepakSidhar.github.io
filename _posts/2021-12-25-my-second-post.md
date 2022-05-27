@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Launching into Cyber Security
-subtitle: In this module we had four assignnments to produce. The learning outcomes are below.  
+title: Module ONE
+subtitle: Launching into Cyber Security
 ---
 
 ## Launching into Cyber Security
+On completion of this module I am able to : -  
+Identify and explain the architecture, structure and functionality of basic components of a computer system, considering Cyber Security issues
+Evaluate critically implications of the key vulnerabilities and threats of software and network security and approaches to mitigate these issues
+Appraise critically and apply the concepts and principles of secure object-oriented programming and design to facilitate business security-based decisions
+Evaluate critically the solutions developed to solve/mitigate these security issues.
+
 
 
 ## Collaborative Learning Discussion 1
