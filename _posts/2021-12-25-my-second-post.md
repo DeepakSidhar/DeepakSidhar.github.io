@@ -20,9 +20,11 @@ Evaluate critically the solutions developed to solve/mitigate these security iss
 
 Your discussion could consider the following: the economic benefits to companies, the implications of a breach of regulations and laws such as reputational damage and trust and business competitiveness.
 
-Identify a typical global company and describe the nature of the business to set the context for the discussion. Review lecturecast 1 and read the papers provided in the references list. Add your initial post to the discussion forum on this page.
+Identify a typical global company and describe the nature of the business to set the context for the discussion. Review lecturecast 1 and read the papers provided in the references list. Add your initial post to the discussion forum.
 
+## Collaborative Learning Discussion 2
 
+Identify and discuss two security technologies and the context in which they can be employed. Your discussion could consider either network or/and software security issues. For example, if a network issue, what type of firewall would be ideal for the solution? What are the strengths and weaknesses of the solution?
 
 ## Individual Essay
 The aim of this deliverable is to apply the Cyber Security methods and techniques studied during the module to develop a solution to a business problem. The details of the business problem are as follows:
@@ -36,15 +38,15 @@ To address this problem, the clinic management has decided to acquire a web-base
 The management of the clinic is concerned about the recent high rate of cybercrime and the government's policy on patient data protection. The IT team at the clinic has been tasked to install a secured ASMIS. As the Cyber Security Officer on the team that manages the clinic's IT systems, you are to advise the team on the potential cyber threats and how these can be mitigated.
 
 Instructions
-So, you are to produce a report to management providing the following information. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid (Module Resources):
+So, you are to produce a report to management providing the following information.
 
 Details of the benefits of the ASMIS as well as the potential problems including potential cyber threats to the system, and
-The report must include at least two UML diagrams. Each diagram should show aspects of the system and a threat modelling technique that can be used to identify and mitigate potential cyber threats (as demonstrated in the seminar case studies). (Knowledge and Understanding weighted at 30%)
-A background to the UML diagrams and modelling techniques (your design approach), along with justifications for their use with supporting references, and
-The Cyber Security technologies that can be used to address the problem (as discussed in the module), discussing the strengths and weaknesses of the solutions with references to examples in which the technology has been employed. (Criticality weighted at 30%)
+The report must include at least two UML diagrams. Each diagram should show aspects of the system and a threat modelling technique that can be used to identify and mitigate potential cyber threats
+A background to the UML diagrams and modelling techniques, along with justifications for their use with supporting references, and
+The Cyber Security technologies that can be used to address the problem, discussing the strengths and weaknesses of the solutions with references to examples in which the technology has been employed. 
 
 
 
 ## End of Module Assignment: OOP application of principles and concepts
-You are now required to implement a Python code of a solution to the issue described abovw.  This could be one of the solutions you recommended in your report or one you did not consider in that submission. The cyber security approaches you have chosen should be clearly highlighted.  So your proposed solution could involve the implementation of Multi-factor Authentication and the use of encryption technologies to store user data. You are not expected to implement solutions that involve the use of external devices, such as biometric devices.  Ensure you consider the feedback you have received on your Unit 9 submission and in your formative programming outline submission.
+You are now required to implement a Python code of a solution to the issue described above.  This could be one of the solutions you recommended in your report or one you did not consider in that submission. The cyber security approaches you have chosen should be clearly highlighted.  So your proposed solution could involve the implementation of Multi-factor Authentication and the use of encryption technologies to store user data. You are not expected to implement solutions that involve the use of external devices, such as biometric devices.  Ensure you consider the feedback you have received on your Unit 9 submission and in your formative programming outline submission.
 
