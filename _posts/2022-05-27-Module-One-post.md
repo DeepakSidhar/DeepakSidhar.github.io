@@ -26,10 +26,21 @@ Identify a typical global company and describe the nature of the business to set
 <li> First Peer Response Post - <a href="/assets/Response_1_Collaborative_Learning_Discussion_1.pdf">First Peer Response</a></li>
 <li> Second Peer Post Response - <a href="/assets//Response_2_Collaborative_Learning_Discussion_1.pdf">Second Peer Response</a></li>
 <li> Third Peer Post Response  - <a href="/assets/Deepaks_Inital_Post.pdf">Third Peer Post Response </a></li>
+<li> Summary Response  - <a href="/assets/Summary Post.pdf">Summary Response Post Response </a></li>
 </ol>
 ## Collaborative Learning Discussion 2
 
 Identify and discuss two security technologies and the context in which they can be employed. Your discussion could consider either network or/and software security issues. For example, if a network issue, what type of firewall would be ideal for the solution? What are the strengths and weaknesses of the solution?
+
+<ol>
+<li> Inital Post - <a href="/assets/Inital+Post2.pdf">Inital Post</a></li>
+<li> First Peer Response Post - <a href="/assets/Response_2_Collaborative_Learning_Discussion_1.pdf">First Peer Response</a></li>
+<li> Second Peer Post Response - <a href="/assets/Response_2_Collaborative_Learning_Discussion_2.pdf">Second Peer Response</a></li>
+<li> Third Peer Post Response  - <a href="/assets/Response_3_Collaborative_Learning_Discussion_2.pdf">Third Peer Post Response </a></li>
+<li> Summary Response  - <a href="/assets/Summary Post2.pdf">Summary Response Post Response </a></li>
+  
+  
+</ol>
 
 ## Individual Essay
 The aim of this deliverable is to apply the Cyber Security methods and techniques studied during the module to develop a solution to a business problem. The details of the business problem are as follows:
@@ -49,6 +60,10 @@ Details of the benefits of the ASMIS as well as the potential problems including
 The report must include at least two UML diagrams. Each diagram should show aspects of the system and a threat modelling technique that can be used to identify and mitigate potential cyber threats
 A background to the UML diagrams and modelling techniques, along with justifications for their use with supporting references, and
 The Cyber Security technologies that can be used to address the problem, discussing the strengths and weaknesses of the solutions with references to examples in which the technology has been employed. 
+
+
+<li> Individual Essay - <a href="/assets/Deepak's Individual Essay.pdf">Individual Essay</a></li>
+  
 
 
 
