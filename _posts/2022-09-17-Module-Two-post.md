@@ -1,24 +1,18 @@
-<h1>Module Three  - Security and Risk Management August 2022</h1>
+<h1>Module Two  - Network Security 2022</h1>
 
 On completion of this module : - 
 <ol>
-<li>Describe when to use qualitative and quantitative risk assessments.</li>
-<li>Create threat models for various scenarios.</li>
-<li>Create quantitative risk models.</li>
-<li>Design and explain DR strategies and solutions.</li>
+<li>Identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them..</li>
+<li>Design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues..</li>
+<li>Gather and synthesise information from multiple sources (including internet security alerts and warning sites) to aid in the systematic analysis of security breaches and issues.</li>
+<li>Articulate the legal, social, ethical and professional issues faced by information security and risk professionals.</li>
 </ol>
 
 
-## Collaborative Learning Discussion 1
+## Vulnerability Audit and Assessment - Baseline Analysis and Plan
 
-## Development Team Project: Risk Identification Report
+## Vulnerability Audit and Assessment - Results and Executive Summary
 
-## Collaborative Learning Discussion 2
+## Individual Reflective Piece
 
-## Development Team Project: Executive Summary
-
-
-## Collaborative Learning Discussion 2
-
-## Individual Module e-Portfolio
 
