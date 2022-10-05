@@ -1,4 +1,9 @@
-<h1>Module Three  - Security and Risk Management August 2022</h1>
+---
+layout: post
+title: Module THREE
+subtitle: Security and Risk Management
+---
+<h1>Module Three  - Security and Risk Management</h1>
 
 On completion of this module : - 
 <ol>
@@ -12,10 +17,30 @@ On completion of this module : -
 ## Collaborative Learning Discussion 1
 
 ## Development Team Project: Risk Identification Report
+Assignment Brief
+Pampered pets are a bricks-and-mortar business, based in a leafy suburb of Hashington-on-the-Water. It employs 4 staff; Alice the owner/ manager; Cathy the shop manager; Andrea the store assistant and Harry the warehouse manager. 90% of their business is carried out face to face, with people coming into the store to buy items. A small percentage of clients will email their orders – once these are ready the staff email the clients who then travel to the store to pick up goods and pay. Recently Harry has started to use an old, networked computer (with a spreadsheet package) to keep track of warehouse deliveries and item locations. The front desk uses a computer for all sales and purchases so that transactions are recorded digitally – this makes VAT and Tax submissions easier. The main shop has a wireless gateway and hub that both computers are connected to. In addition, all the staff use the wireless connection for various apps on their smart phones.
+
+The business is most famous for the quality of its pet foods – using the highest quality ingredients from local suppliers, with many items being prepared and packed in-house. This has a number of advantages including easy and regular quality checks of ingredients and a guaranteed supply chain – if necessary, employees could get into their cars and drive 10 minutes to the suppliers (mostly local farms) to pick up the ingredients by hand.
+
+Cathy, cognisant of the influence and benefits of the Internet, has retained the services of a consultancy (your team) to research the best way to grow the business. The report should investigate all reasonable threats AND address the following three questions:
+
+Could an online presence grow the business by up to 50%?
+Could changing to an international supply chain reduce costs by up to 24%?
+Could the business lose up to 33% of its existing customers if the business doesn’t provide some online features?
+Orla O’dour (eccentric Irish billionaire) decides to buy a share in the company and advises Cathy that the business should be digitalised to improve internal business processes and to expand the reach of the business internationally – and she is willing to fund the transformation.
+
+
+For this submission, your team are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business. Which would you recommend, taking both assessments into account? Produce a risk identification report with your responses to these questions. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid (Module Resources).
+
+<li> Risk Identification Report by Cyber Masters <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Risk%20Identification%20Report%20by%20Cyber%20Masters.pdf">Risk Identification Report by Cyber Masters</a></li>
 
 ## Collaborative Learning Discussion 2
 
 ## Development Team Project: Executive Summary
+Assignment Brief
+Cathy has decided to start the digitalisation process. In addition to the changes you recommended, she has decided to add an international supply chain and a number of automated warehouses worldwide. The changes immediately attract the attention of two very high-profile new customers – HRH King Charles III and Prince Albert 2nd of Monaco. However, both are concerned about the effect of these digitalisation changes on the world-famous quality of the products and the security of the supply chain.
+
+Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of the business and the supply chain could endanger both the quality and availability of the company's products. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid located in Module Resources.
 
 
 ## Collaborative Learning Discussion 2
