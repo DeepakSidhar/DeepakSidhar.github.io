@@ -22,22 +22,22 @@ Your discussion could consider the following: the economic benefits to companies
 
 Identify a typical global company and describe the nature of the business to set the context for the discussion. Review lecturecast 1 and read the papers provided in the references list. Add your initial post to the discussion forum.
 <ol>
-<li> Inital Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/Collaborative%20Learning%20Discussion%201/Deepaks%20Inital%20Post.pdf">Inital Post</a></li>
-<li> First Peer Response Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/Response_1_Collaborative_Learning_Discussion_1.pdf">First Peer Response</a></li>
-<li> Second Peer Post Response - <a href="/assets//Response_2_Collaborative_Learning_Discussion_1.pdf">Second Peer Response</a></li>
-<li> Third Peer Post Response  - <a href="/assets/Deepaks_Inital_Post.pdf">Third Peer Post Response </a></li>
-<li> Summary Response  - <a href="/assets/Summary Post.pdf">Summary Response Post Response </a></li>
+<li> Inital Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Deepaks_Inital_Post.pdf">Inital Post</a></li>
+<li> First Peer Response Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Response_1_Collaborative_Learning_Discussion_1.pdf">First Peer Response</a></li>
+<li> Second Peer Post Response - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Response_2_Collaborative_Learning_Discussion_1.pdf">Second Peer Response</a></li>
+<li> Third Peer Post Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Response_3_Collaborative_Learning_Discussion_1.pdf">Third Peer Post Response </a></li>
+<li> Summary Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Summary%20Post.pdf">Summary Response Post Response </a></li>
 </ol>
 ## Collaborative Learning Discussion 2
 
 Identify and discuss two security technologies and the context in which they can be employed. Your discussion could consider either network or/and software security issues. For example, if a network issue, what type of firewall would be ideal for the solution? What are the strengths and weaknesses of the solution?
 
 <ol>
-<li> Inital Post - <a href="/assets/Inital+Post2.pdf">Inital Post</a></li>
-<li> First Peer Response Post - <a href="/assets/Response_2_Collaborative_Learning_Discussion_1.pdf">First Peer Response</a></li>
-<li> Second Peer Post Response - <a href="/assets/Response_2_Collaborative_Learning_Discussion_2.pdf">Second Peer Response</a></li>
-<li> Third Peer Post Response  - <a href="/assets/Response_3_Collaborative_Learning_Discussion_2.pdf">Third Peer Post Response </a></li>
-<li> Summary Response  - <a href="/assets/Summary Post2.pdf">Summary Response Post Response </a></li>
+<li> Inital Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Inital%2BPost2.pdf">Inital Post</a></li>
+<li> First Peer Response Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Response_1_Collaborative_Learning_Discussion_2.pdf">First Peer Response</a></li>
+<li> Second Peer Post Response - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Response_2_Collaborative_Learning_Discussion_2.pdf">Second Peer Response</a></li>
+<li> Third Peer Post Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Response_3_Collaborative_Learning_Discussion_2.pdf">Third Peer Post Response </a></li>
+<li> Summary Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Summary%20Post2.pdf">Summary Response Post Response </a></li>
   
   
 </ol>
@@ -62,7 +62,7 @@ A background to the UML diagrams and modelling techniques, along with justificat
 The Cyber Security technologies that can be used to address the problem, discussing the strengths and weaknesses of the solutions with references to examples in which the technology has been employed. 
 
 
-<li> Individual Essay - <a href="/assets/Deepak's Individual Essay.pdf">Individual Essay</a></li>
+<li> Individual Essay - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleOne/Deepak's%20Individual%20Essay.pdf">Individual Essay</a></li>
   
 
 
