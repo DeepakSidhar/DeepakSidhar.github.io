@@ -14,8 +14,6 @@ On completion of this module : -
 </ol>
 
 
-## Collaborative Learning Discussion 1
-
 ## Development Team Project: Risk Identification Report
 Assignment Brief
 Pampered pets are a bricks-and-mortar business, based in a leafy suburb of Hashington-on-the-Water. It employs 4 staff; Alice the owner/ manager; Cathy the shop manager; Andrea the store assistant and Harry the warehouse manager. 90% of their business is carried out face to face, with people coming into the store to buy items. A small percentage of clients will email their orders – once these are ready the staff email the clients who then travel to the store to pick up goods and pay. Recently Harry has started to use an old, networked computer (with a spreadsheet package) to keep track of warehouse deliveries and item locations. The front desk uses a computer for all sales and purchases so that transactions are recorded digitally – this makes VAT and Tax submissions easier. The main shop has a wireless gateway and hub that both computers are connected to. In addition, all the staff use the wireless connection for various apps on their smart phones.
@@ -34,7 +32,7 @@ For this submission, your team are tasked with carrying out a risk assessment, e
 
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Risk%20Identification%20Report%20by%20Cyber%20Masters.pdf">Risk Identification Report by Cyber Masters</a></li>
 
-## Collaborative Learning Discussion 2
+
 
 ## Development Team Project: Executive Summary
 Assignment Brief
@@ -47,21 +45,25 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 
 
 
+## Collaborative Learning Discussion 1
+
+
 ## Collaborative Learning Discussion 2
+
 
 ## Individual Module e-Portfolio
 
-Unit 2
+<li>Unit 2</li>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
-Unit 4
+<li>Unit 4</li>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises		</a></li>
-Unit 5
+<li>Unit 5</li>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study		</a></li>
-Unit 6
+<li>Unit 6</li>
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
-Unit 8
+<li>Unit 8</li>
 Quantitative Risk Modelling	
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
-Unit 10
+<li>Unit 10</li>
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
 
