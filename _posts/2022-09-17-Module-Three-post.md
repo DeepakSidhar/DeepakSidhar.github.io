@@ -61,6 +61,7 @@ Unit 6
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
 Unit 8
 Quantitative Risk Modelling	
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
 Unit 10
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
 
