@@ -32,7 +32,7 @@ Orla O’dour (eccentric Irish billionaire) decides to buy a share in the compan
 
 For this submission, your team are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business. Which would you recommend, taking both assessments into account? Produce a risk identification report with your responses to these questions. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid (Module Resources).
 
-<li> Risk Identification Report by Cyber Masters <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Risk%20Identification%20Report%20by%20Cyber%20Masters.pdf">Risk Identification Report by Cyber Masters</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Risk%20Identification%20Report%20by%20Cyber%20Masters.pdf">Risk Identification Report by Cyber Masters</a></li>
 
 ## Collaborative Learning Discussion 2
 
@@ -42,7 +42,7 @@ Cathy has decided to start the digitalisation process. In addition to the change
 
 Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of the business and the supply chain could endanger both the quality and availability of the company's products. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid located in Module Resources.
 
-<li> Executive Summary <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/SRM_Unit-11_Development%20Team%20Project%20Executive%20Summary_CyberMasters_Assignment2%20(1).pdf">Executive Summary</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/SRM_Unit-11_Development%20Team%20Project%20Executive%20Summary_CyberMasters_Assignment2%20(1).pdf">Executive Summary</a></li>
 
 
 
@@ -53,25 +53,31 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 
 Unit 2
 
+
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
 
 Unit 4
+
 
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises		</a></li>
 
 Unit 5
 
+
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study		</a></li>
 
 Unit 6
+
 
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
 
 Unit 8
 
+
 Quantitative Risk Modelling	
 
 Unit 10
+
 
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
 
