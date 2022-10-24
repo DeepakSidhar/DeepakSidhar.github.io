@@ -53,17 +53,18 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 
 ## Individual Module e-Portfolio
 
-<li>Unit 2</li>
+
+Unit 2: Users, Assessments and the Risk Management Process
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
-<li>Unit 4</li>
+Unit 4: Application of Threat Modelling and Management Techniques
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises		</a></li>
-<li>Unit 5</li>
+Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study		</a></li>
-<li>Unit 6</li>
+Unit 6: The Practical Implications of Security and Risk Standards
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
-<li>Unit 8</li>
+Unit 8: Implementing Quantitative Risk Models.
 Quantitative Risk Modelling	
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
-<li>Unit 10</li>
+Unit 10: Practical Applications and Issues in DR Implementations
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
 
