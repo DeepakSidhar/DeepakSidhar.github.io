@@ -52,15 +52,16 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 ## Individual Module e-Portfolio
 Unit 2
 
-User Participation in the Risk Management Process	
+<li>User Participation in the Risk Management Process	 <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
 
 Unit 4
 
 Threat Modelling Exercises	
+<li>Threat Modelling Exercises	<a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises		</a></li>
 
 Unit 6
 
-Security Standards	
+<li>Security Standards <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
 
 Unit 8
 
