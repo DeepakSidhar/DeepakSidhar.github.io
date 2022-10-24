@@ -47,6 +47,21 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 
 ## Collaborative Learning Discussion 1
 
+Based on your reading of the case study(Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum:
+
+What do the authors mean by the term ‘Industry 4.0’ - give two examples.
+Give two real-world examples of risks that fit into the authors categories.
+Find another journal article that either supports or contradicts the points made in the cited study.
+
+
+<ol>
+<li> Inital Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%201%20inital%20POST.pdf">Inital Post</a></li>
+<li> First Peer Response Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%201%20response%201.pdf">First Peer Response</a></li>
+<li> Second Peer Post Response - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%201%20response%202.pdf">Second Peer Response</a></li>
+<li> Third Peer Post Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%201%20response%203.pdf">Third Peer Post Response </a></li>
+<li> Summary Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%201%20Summary.pdff">Summary Response Post Response </a></li>
+</ol>
+
 
 ## Collaborative Learning Discussion 2
 
