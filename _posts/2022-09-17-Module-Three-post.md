@@ -46,3 +46,22 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 ## Collaborative Learning Discussion 2
 
 ## Individual Module e-Portfolio
+Unit 2
+
+User Participation in the Risk Management Process	
+
+Unit 4
+
+Threat Modelling Exercises	
+
+Unit 6
+
+Security Standards	
+
+Unit 8
+
+Quantitative Risk Modelling	
+
+Unit 10
+
+DR Solutions Design and Review <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">
