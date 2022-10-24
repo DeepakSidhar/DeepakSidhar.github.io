@@ -42,6 +42,10 @@ Cathy has decided to start the digitalisation process. In addition to the change
 
 Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of the business and the supply chain could endanger both the quality and availability of the company's products. Note that the associated grading criteria are highlighted in the requirements below, to be reviewed alongside the criteria grid located in Module Resources.
 
+<li> Executive Summary <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/SRM_Unit-11_Development%20Team%20Project%20Executive%20Summary_CyberMasters_Assignment2%20(1).pdf">Executive Summary</a></li>
+
+
+
 
 ## Collaborative Learning Discussion 2
 
