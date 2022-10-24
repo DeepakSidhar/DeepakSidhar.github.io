@@ -50,23 +50,29 @@ Produce an Executive Summary which provides an estimate of the probabilities tha
 ## Collaborative Learning Discussion 2
 
 ## Individual Module e-Portfolio
-Unit 2
 
-<li>User Participation in the Risk Management Process	 <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
+##Unit 2
 
-Unit 4
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
 
-Threat Modelling Exercises	
-<li>Threat Modelling Exercises	<a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises		</a></li>
+##Unit 4
 
-Unit 6
 
-<li>Security Standards <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises		</a></li>
 
-Unit 8
+##Unit 5
+
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study		</a></li>
+
+##Unit 6
+
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
+
+##Unit 8
 
 Quantitative Risk Modelling	
 
-Unit 10
+## Unit 10
 
-<li> DR Solutions Design and Review <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
+</ol>  
