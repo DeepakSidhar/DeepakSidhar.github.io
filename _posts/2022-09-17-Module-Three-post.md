@@ -65,6 +65,13 @@ Find another journal article that either supports or contradicts the points made
 
 ## Collaborative Learning Discussion 2
 
+<ol>
+<li> Inital Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%202%20inital%20POST.pdf">Inital Post</a></li>
+<li> First Peer Response Post - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%202%20response%201.pdf">First Peer Response</a></li>
+<li> Second Peer Post Response - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%202%20response%202.pdf">Second Peer Response</a></li>
+<li> Summary Response  - <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Collaborative%20Learning%20Discussion%202%20Summary.pdf">Summary Response Post Response </a></li>
+</ol>
+
 
 ## Individual Module e-Portfolio
 
