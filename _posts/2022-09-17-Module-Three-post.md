@@ -81,11 +81,11 @@ Find another journal article that either supports or contradicts the points made
 <h4>Unit 4: Application of Threat Modelling and Management Techniques</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises	</a></li>
 <h4>Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise</h4>
-<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study		</a></li>
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study</a></li>
 <h4>Unit 6: The Practical Implications of Security and Risk Standards</h4>
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards</a></li>
 <h4>Unit 8: Implementing Quantitative Risk Models.</h4>
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards	</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Quantitative%20Risk.pdf">Quantitative Risk Modelling</a></li>
 <h4>Unit 10: Practical Applications and Issues in DR Implementations</h4>
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
 
