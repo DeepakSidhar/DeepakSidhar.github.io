@@ -44,7 +44,7 @@ Your full brief is to:
 Create a comprehensive design proposal report, describing how you will meet the requirements, and the design and implementation of the solution.
 You should create a working prototype of your design based on a monolithic approach.
 
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Risk%20Identification%20Report%20by%20Cyber%20Masters.pdf">Risk Identification Report by Cyber Masters</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/SSD_Assignment1_Design_Final.pdf">Assignment1_Design_Final</a></li>
 
 
 
@@ -67,6 +67,8 @@ You should submit a README file that documents how the application runs
 
 Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring.
 Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
+
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/UML%20flowchart.pdf">UML FLOW</a></li>
 
 
 
