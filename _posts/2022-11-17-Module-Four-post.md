@@ -77,15 +77,11 @@ Which UML models might you use to present the design of your proposed software, 
 ## Individual Module e-Portfolio
 
 >
-<h4>Unit 2: Users, Assessments and the Risk Management Process</h4>
+<h4>Unit 2: UML Modelling to Support Secure System Planning</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
-<h4>Unit 4: Application of Threat Modelling and Management Techniques</h4>
+<h4>Unit 3: Introduction to Programming Languages</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises	</a></li>
-<h4>Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise</h4>
+<h4>Unit 4: Introduction to Testing</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study</a></li>
-<h4>Unit 6: The Practical Implications of Security and Risk Standards</h4>
+<h4>Unit 5: Future trends in Secure Software Development</h4>
 <li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards</a></li>
-<h4>Unit 8: Implementing Quantitative Risk Models.</h4>
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Quantitative%20Risk.pdf">Quantitative Risk Modelling</a></li>
-<h4>Unit 10: Practical Applications and Issues in DR Implementations</h4>
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/DR%20Solutions%20Design%20and%20Review.pdf">DR Solutions Design and Review</a></li>
