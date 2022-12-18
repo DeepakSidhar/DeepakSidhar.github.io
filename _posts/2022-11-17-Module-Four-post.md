@@ -80,8 +80,8 @@ Which UML models might you use to present the design of your proposed software, 
 <h4>Unit 2: UML Modelling to Support Secure System Planning</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/unit2%20blog%20post.pdf">Blog Post	</a></li>
 <h4>Unit 3: Introduction to Programming Languages</h4>
-<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises	</a></li>
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/SSD%20Unit%203%20.pdf">Unit Three Exercises	</a></li>
 <h4>Unit 4: Introduction to Testing</h4>
-<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/GDPR%20Case%20Studies.pdf">GDPR Case Study</a></li>
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/SSD%20Unit%204%20.pdf">Unit Four Exercises	</a></li>
 <h4>Unit 5: Future trends in Secure Software Development</h4>
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Security%20Standards.pdf">Security Standards</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/SSD%20Unit%205.pdf">Unit Five Exercises	</a></li>
