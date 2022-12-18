@@ -78,7 +78,7 @@ Which UML models might you use to present the design of your proposed software, 
 
 >
 <h4>Unit 2: UML Modelling to Support Secure System Planning</h4>
-<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/User%20Participation%20in%20the%20Risk%20Management%20Process.pdf">User Participation in the Risk Management Process	</a></li>
+<li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFour/unit2%20blog%20post.pdf">Blog Post	</a></li>
 <h4>Unit 3: Introduction to Programming Languages</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleThree/Threat%20Modelling%20Exercises.pdf">Threat Modelling Exercises	</a></li>
 <h4>Unit 4: Introduction to Testing</h4>
