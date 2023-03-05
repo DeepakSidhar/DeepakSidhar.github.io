@@ -43,6 +43,8 @@ analyse your results and produce a summary paper that discusses the question, mo
 
 As a minimum, you should create a prototype that demonstrates the operation of, and interaction between, a simulated device and a simulated controller. Both should be modelled in Python and should demonstrate code and techniques that address both the challenges of distributed computing, mitigate (some of) the vulnerabilities identified in your AD trees produced in part 1 of the assessment, as well as answer the question posed by your hypothesis.
 
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleFive/Readme.pdf"> Assignment 2 ReadMe</a></li>
+
 
 ## Individual Module e-Portfolio
 
