@@ -3,7 +3,7 @@ layout: post
 title: Module Seven
 subtitle: Research Methods and Professional Practice 
 ---
-<h1>Module Seven - Research Methods and Professional Practice </h1>
+<h1>Module Seven - Research Methods and Professional Practice. </h1>
 
 On completion of this module : - 
 <ol>
