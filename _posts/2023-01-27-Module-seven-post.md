@@ -33,8 +33,8 @@ Assignment Brief
 
 The research proposal presentation fulfils the learning outcomes where you will evaluate critically existing literature, research design and methodology for your chosen topic, including data analysis processes and so produce and evaluate critically a research proposal for your chosen topic. This can be based on the literature review topic you chose in Unit 1 or the topic of your capstone project for MSc Students (MSc students - Please see the BCS Project Requirements document on the Module Resources page and also the CyBOK Knowledge Base for those taking on Cyber Security Projects as your Cyber Security project should fall into one of these CyBOK Knowledge Areas, as well as meeting BCS requirements).
 
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/researchProposal.pdf"> </a>Research Proposal Presentation script</li>
-<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/PPTResearch%20Proposal.pdf"> </a>Research Proposal Presentation PowerPoint</li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/researchProposal.pdf"> Research Proposal Presentation script</a></li>
+<li> <a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/PPTResearch%20Proposal.pdf"> Research Proposal Presentation PowerPoint</a></li>
 
 
 ## Individual Module e-Portfolio
