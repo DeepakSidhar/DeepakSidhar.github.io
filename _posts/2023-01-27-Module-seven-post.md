@@ -46,5 +46,5 @@ The research proposal presentation fulfils the learning outcomes where you will 
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/researchProposalOutLine.pdf">Research Proposal Presentation Outline</a></li>
 <h4>Statistical Worksheet Submissions</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/Stats.pdf">Statistical Worksheet Submissions</a></li>
-<h4>BlogPist</h4>
+<h4>Blog Post</h4>
 <li><a href="https://github.com/DeepakSidhar/DeepakSidhar.github.io/blob/main/assets/ModuleSeven/BlogPostAugust2023.pdf">Blog Posts</a></li>
